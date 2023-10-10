@@ -7,6 +7,7 @@ output:
   pdf_document: default
 ---
 Fuck this.
+Cody's project blows
 ```{r global_options, echo=FALSE}
 knitr::opts_chunk$set(fig.height=3, fig.width=6, warning=FALSE, tidy=TRUE, tidy.opts=list(width.cutoff=60))
 ```
